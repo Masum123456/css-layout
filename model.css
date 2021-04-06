@@ -1,0 +1,65 @@
+header{
+    width: 100%;
+    height: 120px;
+    background-color: cadetblue;
+    box-sizing: border-box;
+    border: 4px solid;
+   
+}
+
+header p{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+nav{
+    width: 20%;
+    height: 800px;
+    background-color: crimson;
+    float: left;
+    box-sizing: border-box;
+    border-right: 4px solid;
+    border-left: 4px solid;
+    border-bottom: 4px solid;
+}
+nav p{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+nav ul {
+    list-style-type: none;
+    width: 30%;
+}
+
+section{
+    width: 80%;
+    height: 700px;
+    background-color: darkorange;
+    float: left;
+    box-sizing: border-box;
+    border-right: 4px solid;
+}
+section p{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+    
+footer{
+    width: 80%;
+    height: 100px;
+    background-color: deepskyblue;
+    float: right;
+    box-sizing: border-box;
+    border-top: 4px solid;
+    border-right: 4px solid;
+    border-bottom: 4px solid;
+}
+footer p{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
